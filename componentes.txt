@@ -1,0 +1,2 @@
+Director = Angeles Fuentes Exposito
+Desarrollador = Desarrollador Angeles
